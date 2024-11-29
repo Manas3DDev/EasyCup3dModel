@@ -25,7 +25,6 @@ This project documents my learning journey into Blender, focusing on understandi
   ![Coffee Cup Model](https://d2vme5slygkxfz.cloudfront.net/u1diod%2Fpreview%2F62784085%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1732894067&Signature=Vtlb-fLe5xG1jxn0NQMH-LKzJm6DV~H7bPufz8bDbyXH-qOkTwm8hNTep-O1KsDiPnpg6yJeBByW~ZJi6goc-NUeROmXDDRnEfsZG8Tbp5qqzXApqVdQaXEkmw9KKjPMhjxlVgpRQp1ryl7QR6c5jzaYSJQgGj1KINldwWXsdpiJOXqPUM60K16VFPQRSV2q4iBD8qfmvE-lIslrt4hHrkGBynxnSiDDmXX9SBu8oyeqeHfzREP6fzEdclVofkNRLXwYd-sOXFW2spyrDALDTIS0cLiqM5gGVcJpA5StMPTBnI0rV~VAXTtsOAHol0VIdzuiYWrDX0fTr6wdBfPorw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)  
 
 ## Next Steps  
-- Add more details to the coffee cup (e.g., a handle).  
 - Learn about texturing and materials for more realistic models.  
 
 ## Tools Used  
